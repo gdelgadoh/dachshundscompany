@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/dachshundscompany/static/css/main.a617e044.chunk.css",
-    "main.js": "/dachshundscompany/static/js/main.25925ccb.chunk.js",
-    "main.js.map": "/dachshundscompany/static/js/main.25925ccb.chunk.js.map",
-    "runtime-main.js": "/dachshundscompany/static/js/runtime-main.57b76abd.js",
-    "runtime-main.js.map": "/dachshundscompany/static/js/runtime-main.57b76abd.js.map",
-    "static/js/2.207498b3.chunk.js": "/dachshundscompany/static/js/2.207498b3.chunk.js",
-    "static/js/2.207498b3.chunk.js.map": "/dachshundscompany/static/js/2.207498b3.chunk.js.map",
-    "static/js/3.f1628ad6.chunk.js": "/dachshundscompany/static/js/3.f1628ad6.chunk.js",
-    "static/js/3.f1628ad6.chunk.js.map": "/dachshundscompany/static/js/3.f1628ad6.chunk.js.map",
-    "index.html": "/dachshundscompany/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/dachshundscompany/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.207498b3.chunk.js.LICENSE.txt": "/dachshundscompany/static/js/2.207498b3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dachshundscompany/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.25925ccb.chunk.js",
+    "main.js.map": "/static/js/main.25925ccb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.80c972f3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.80c972f3.js.map",
+    "static/js/2.207498b3.chunk.js": "/static/js/2.207498b3.chunk.js",
+    "static/js/2.207498b3.chunk.js.map": "/static/js/2.207498b3.chunk.js.map",
+    "static/js/3.f1628ad6.chunk.js": "/static/js/3.f1628ad6.chunk.js",
+    "static/js/3.f1628ad6.chunk.js.map": "/static/js/3.f1628ad6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.207498b3.chunk.js.LICENSE.txt": "/static/js/2.207498b3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.57b76abd.js",
+    "static/js/runtime-main.80c972f3.js",
     "static/js/2.207498b3.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.25925ccb.chunk.js"
